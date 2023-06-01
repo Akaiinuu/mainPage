@@ -29,7 +29,7 @@ I have 5 years of experience in tech companies working as QA engineer and System
 
 **Test Artefacts**
 
-1. Test strategy
+1. [Test strategy](https://github.com/Akaiinuu/TestStrategy)
 2. Test plan
 3. Test case
 4. Bug report
