@@ -13,7 +13,7 @@ lets go!
 
 [Telegram](https://t.me/JubeiKibagamy)
 
-[LinkedIn](https://linkedin.com/in/imaqa)
+[LinkedIn](https://www.linkedin.com/in/imaqa/)
 
 Tel: +905355780602 (Turkey)
 
