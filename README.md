@@ -31,7 +31,7 @@ I have 5 years of experience in tech companies working as QA engineer and System
 
 1. [Test strategy](https://github.com/Akaiinuu/mainPage/blob/main/testArtefacts/testStrategy/README.md)
 2. [Test plan](https://github.com/Akaiinuu/mainPage/tree/main/testArtefacts/testPlan)
-3. Test case
+3. [Test case](https://github.com/Akaiinuu/mainPage/blob/main/testArtefacts/testCases/README.md)
 4. Bug report
 
 **Theory of testing**
